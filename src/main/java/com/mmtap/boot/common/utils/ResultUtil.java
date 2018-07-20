@@ -4,7 +4,7 @@ package com.mmtap.boot.common.utils;
 import com.mmtap.boot.common.vo.Result;
 
 /**
- * @author Exrick
+ * @author mmtap.com
  */
 public class ResultUtil<T> {
 

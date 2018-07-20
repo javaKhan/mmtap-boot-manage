@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * 角色权限接口
- * @author Exrick
+ * @author mmtap.com
  */
 public interface RolePermissionService extends XbootBaseService<RolePermission,String> {
 

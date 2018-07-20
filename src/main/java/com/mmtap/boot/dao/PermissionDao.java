@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 权限数据处理层
- * @author Exrick
+ * @author mmtap.com
  */
 public interface PermissionDao extends XbootBaseDao<Permission,String> {
 

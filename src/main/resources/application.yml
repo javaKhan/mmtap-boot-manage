@@ -1,7 +1,7 @@
 # 配置文件加密key
 jasypt:
   encryptor:
-    password: xboot
+    password: mmtap
 server:
   port: 8888
 
@@ -104,4 +104,4 @@ mybatis-plus:
   configuration:
     map-underscore-to-camel-case: true
     cache-enabled: false
-debug: false
+debug: true

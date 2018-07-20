@@ -36,7 +36,7 @@ public class XbootGenerator {
      * 作者名
      * 建议仅需修改
      */
-    private static final String author = "Exrick";
+    private static final String author = "mmtap.com";
 
     /**
      * 主键类型

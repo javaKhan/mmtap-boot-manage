@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 权限接口
- * @author Exrick
+ * @author mmtap.com
  */
 public interface PermissionService extends XbootBaseService<Permission,String> {
 
